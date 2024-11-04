@@ -27,3 +27,6 @@ public class ShoppingCart {
         return totalPrice;
     }
 }
+
+// List : 순서 O, 중복 허용 O
+// Set : 순서 X, 중복 허용 X
